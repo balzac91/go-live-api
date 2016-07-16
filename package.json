@@ -11,5 +11,8 @@
   "bugs": {
     "url": "https://github.com/balzac91/go-live-api/issues"
   },
-  "homepage": "https://github.com/balzac91/go-live-api#readme"
+  "homepage": "https://github.com/balzac91/go-live-api#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
