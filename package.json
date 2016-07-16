@@ -1,0 +1,15 @@
+{
+  "name": "go-live-api",
+  "version": "0.0.1",
+  "description": "API for system to live match commentary",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/balzac91/go-live-api.git"
+  },
+  "author": "Kamil Fus & Jakub Roch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/balzac91/go-live-api/issues"
+  },
+  "homepage": "https://github.com/balzac91/go-live-api#readme"
+}
